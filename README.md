@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Age-Force
-- 👀 I’m interested in anything Tech + Development (Web6App)
+- 👀 I’m interested in anything Tech + Development (Web+App)
 - 🌱 I’m currently learning Fullstack Devepement
 - 💞️ I’m looking to collaborate on any Programming project
 - 📫 How to reach me aghoedwin1@gmail.com
